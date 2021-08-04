@@ -12,6 +12,12 @@ https://rinkeby.etherscan.io/address/0xd529b93d97453A2B68a8aF02da124D71D53e1FDA
 
 UML diagrams are included in the UML folder
 
+![ActivityDiagram](https://user-images.githubusercontent.com/3228079/128133953-e4b54fc6-84a9-476f-ad05-9fd0b41bf83a.png)
+![Claasses(Data Model)](https://user-images.githubusercontent.com/3228079/128133985-bd290066-71ec-489f-b2f7-c4107ee85cad.png)
+![Sequence Diagram](https://user-images.githubusercontent.com/3228079/128133999-5d40b544-3381-44a9-9261-189100842868.png)
+![State Diagram](https://user-images.githubusercontent.com/3228079/128134008-b2c60951-f0d2-430c-b50b-332205dfd191.png)
+
+
 ## Versions
 
 Truffle v5.4.3 
